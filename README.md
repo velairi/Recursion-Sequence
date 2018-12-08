@@ -1,1 +1,1 @@
-Completed a fibonacci sequence algo using recursion
+Completed the first question in this series of Fibonacci Sequence Algo using Recursion
